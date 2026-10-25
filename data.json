@@ -178,7 +178,7 @@
   {
    "id": "d1792927431471",
    "t": "欠課時数チェック",
-   "b": "",
+   "b": "欠課時数",
    "u": "https://hkimura-web.github.io/-absentee_rate/",
    "tip": true
   }
